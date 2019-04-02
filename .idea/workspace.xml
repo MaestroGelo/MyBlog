@@ -221,7 +221,7 @@
       <path value="$PROJECT_DIR$/vendor/michelf/php-markdown" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="633" />
     <option name="width" value="654" />
     <option name="height" value="991" />
@@ -312,15 +312,15 @@
       <workItem from="1553388518654" duration="52000" />
       <workItem from="1553388600205" duration="109000" />
       <workItem from="1553793860698" duration="6377000" />
-      <workItem from="1554174074858" duration="2807000" />
+      <workItem from="1554174074858" duration="3404000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36709000" />
+    <option name="totallyTimeSpent" value="37306000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="1000" extended-state="7" />
+    <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19417475" />
